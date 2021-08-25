@@ -1,0 +1,14 @@
+D:\ProjectII\ProjectII_API\Project2.Common\bin\Debug\net5.0\Project2.Common.deps.json
+D:\ProjectII\ProjectII_API\Project2.Common\bin\Debug\net5.0\Project2.Common.dll
+D:\ProjectII\ProjectII_API\Project2.Common\bin\Debug\net5.0\ref\Project2.Common.dll
+D:\ProjectII\ProjectII_API\Project2.Common\bin\Debug\net5.0\Project2.Common.pdb
+D:\ProjectII\ProjectII_API\Project2.Common\obj\Debug\net5.0\Project2.Common.csproj.AssemblyReference.cache
+D:\ProjectII\ProjectII_API\Project2.Common\obj\Debug\net5.0\Project2.Common.GeneratedMSBuildEditorConfig.editorconfig
+D:\ProjectII\ProjectII_API\Project2.Common\obj\Debug\net5.0\Project2.Common.AssemblyInfoInputs.cache
+D:\ProjectII\ProjectII_API\Project2.Common\obj\Debug\net5.0\Project2.Common.AssemblyInfo.cs
+D:\ProjectII\ProjectII_API\Project2.Common\obj\Debug\net5.0\Project2.Common.csproj.CoreCompileInputs.cache
+D:\ProjectII\ProjectII_API\Project2.Common\obj\Debug\net5.0\Project2.Common.dll
+D:\ProjectII\ProjectII_API\Project2.Common\obj\Debug\net5.0\ref\Project2.Common.dll
+D:\ProjectII\ProjectII_API\Project2.Common\obj\Debug\net5.0\Project2.Common.pdb
+D:\ProjectII\ProjectII_API\Project2.Common\obj\Debug\net5.0\Project2.Common.Properties.Resources.resources
+D:\ProjectII\ProjectII_API\Project2.Common\obj\Debug\net5.0\Project2.Common.csproj.GenerateResource.cache

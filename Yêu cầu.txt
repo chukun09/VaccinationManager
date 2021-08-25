@@ -1,0 +1,6 @@
+Lời nói đầu : giới thiệu, tóm tắt, bài toán phải giải quyết, công nghệ (1 trang)
+3 chương:
+Chương I: giới thiệu lý thuyết và công nghệ sử dụng (5-7 trang)
+Chương II: phân tích thiết kế ( đặc tả chức năng, đặc tả hoạt động, cấu trúc, db)
+Chương III: Triển khai hoạt động cài đặt môi trường, kịch bản thử nghiệm UseCase
+Kết luận: nêu công việc, kết quả đã hoàn thành đánh giá triển vọng

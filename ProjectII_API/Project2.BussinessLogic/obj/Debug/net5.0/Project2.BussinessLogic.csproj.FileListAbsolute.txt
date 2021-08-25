@@ -1,0 +1,17 @@
+D:\ProjectII\ProjectII_API\Project2.BussinessLogic\bin\Debug\net5.0\Project2.BussinessLogic.deps.json
+D:\ProjectII\ProjectII_API\Project2.BussinessLogic\bin\Debug\net5.0\Project2.BussinessLogic.dll
+D:\ProjectII\ProjectII_API\Project2.BussinessLogic\bin\Debug\net5.0\ref\Project2.BussinessLogic.dll
+D:\ProjectII\ProjectII_API\Project2.BussinessLogic\bin\Debug\net5.0\Project2.BussinessLogic.pdb
+D:\ProjectII\ProjectII_API\Project2.BussinessLogic\bin\Debug\net5.0\Project2.Common.dll
+D:\ProjectII\ProjectII_API\Project2.BussinessLogic\bin\Debug\net5.0\Project2.DataAccess.dll
+D:\ProjectII\ProjectII_API\Project2.BussinessLogic\bin\Debug\net5.0\Project2.Common.pdb
+D:\ProjectII\ProjectII_API\Project2.BussinessLogic\bin\Debug\net5.0\Project2.DataAccess.pdb
+D:\ProjectII\ProjectII_API\Project2.BussinessLogic\obj\Debug\net5.0\Project2.BussinessLogic.csproj.AssemblyReference.cache
+D:\ProjectII\ProjectII_API\Project2.BussinessLogic\obj\Debug\net5.0\Project2.BussinessLogic.GeneratedMSBuildEditorConfig.editorconfig
+D:\ProjectII\ProjectII_API\Project2.BussinessLogic\obj\Debug\net5.0\Project2.BussinessLogic.AssemblyInfoInputs.cache
+D:\ProjectII\ProjectII_API\Project2.BussinessLogic\obj\Debug\net5.0\Project2.BussinessLogic.AssemblyInfo.cs
+D:\ProjectII\ProjectII_API\Project2.BussinessLogic\obj\Debug\net5.0\Project2.BussinessLogic.csproj.CoreCompileInputs.cache
+D:\ProjectII\ProjectII_API\Project2.BussinessLogic\obj\Debug\net5.0\Project2.BussinessLogic.csproj.CopyComplete
+D:\ProjectII\ProjectII_API\Project2.BussinessLogic\obj\Debug\net5.0\Project2.BussinessLogic.dll
+D:\ProjectII\ProjectII_API\Project2.BussinessLogic\obj\Debug\net5.0\ref\Project2.BussinessLogic.dll
+D:\ProjectII\ProjectII_API\Project2.BussinessLogic\obj\Debug\net5.0\Project2.BussinessLogic.pdb
