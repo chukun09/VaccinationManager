@@ -135,7 +135,7 @@
 															"top": 87,
 															"width": 114.13720703125,
 															"height": 13,
-															"text": "Lifeline1: Doctor"
+															"text": "Lifeline1: Nurse"
 														},
 														{
 															"_type": "LabelView",
@@ -356,7 +356,7 @@
 														"$ref": "AAAAAAF7FVDtSl6Z+gc="
 													},
 													"edgePosition": 1,
-													"text": "1 : Click Add New Vaccination Appointment",
+													"text": "1 : Select one or more Appointment",
 													"wordWrap": true
 												},
 												{
@@ -468,7 +468,7 @@
 														"$ref": "AAAAAAF7FVKfDF8LnBc="
 													},
 													"edgePosition": 1,
-													"text": "2 : Open Form Information",
+													"text": "2 : Confirm Alert",
 													"wordWrap": true
 												},
 												{
@@ -581,7 +581,7 @@
 														"$ref": "AAAAAAF7FVM5ll8ntlM="
 													},
 													"edgePosition": 1,
-													"text": "3 : Add new Information"
+													"text": "3 : Comfirm"
 												},
 												{
 													"_type": "EdgeLabelView",
@@ -1004,117 +1004,6 @@
 										},
 										{
 											"_type": "UMLSeqMessageView",
-											"_id": "AAAAAAF7FWBEQ2FHji0=",
-											"_parent": {
-												"$ref": "AAAAAAF7FUW3eF1s0ME="
-											},
-											"model": {
-												"$ref": "AAAAAAF7FWBEQmFGStE="
-											},
-											"subViews": [
-												{
-													"_type": "EdgeLabelView",
-													"_id": "AAAAAAF7FWBEQ2FIaUE=",
-													"_parent": {
-														"$ref": "AAAAAAF7FWBEQ2FHji0="
-													},
-													"model": {
-														"$ref": "AAAAAAF7FWBEQmFGStE="
-													},
-													"font": "Arial;13;0",
-													"left": 511,
-													"top": 240,
-													"width": 122.611328125,
-													"height": 13,
-													"alpha": 1.633214127063229,
-													"distance": 64.1248781675256,
-													"hostEdge": {
-														"$ref": "AAAAAAF7FWBEQ2FHji0="
-													},
-													"edgePosition": 1,
-													"text": "5 : Validate new Data"
-												},
-												{
-													"_type": "EdgeLabelView",
-													"_id": "AAAAAAF7FWBEQ2FJP1Y=",
-													"_parent": {
-														"$ref": "AAAAAAF7FWBEQ2FHji0="
-													},
-													"model": {
-														"$ref": "AAAAAAF7FWBEQmFGStE="
-													},
-													"visible": false,
-													"font": "Arial;13;0",
-													"left": 532,
-													"top": 243,
-													"height": 13,
-													"alpha": 1.5707963267948966,
-													"distance": 25,
-													"hostEdge": {
-														"$ref": "AAAAAAF7FWBEQ2FHji0="
-													},
-													"edgePosition": 1
-												},
-												{
-													"_type": "EdgeLabelView",
-													"_id": "AAAAAAF7FWBEQ2FKlzo=",
-													"_parent": {
-														"$ref": "AAAAAAF7FWBEQ2FHji0="
-													},
-													"model": {
-														"$ref": "AAAAAAF7FWBEQmFGStE="
-													},
-													"visible": false,
-													"font": "Arial;13;0",
-													"left": 498,
-													"top": 244,
-													"height": 13,
-													"alpha": -1.5707963267948966,
-													"distance": 10,
-													"hostEdge": {
-														"$ref": "AAAAAAF7FWBEQ2FHji0="
-													},
-													"edgePosition": 1
-												},
-												{
-													"_type": "UMLActivationView",
-													"_id": "AAAAAAF7FWBEQ2FL6yA=",
-													"_parent": {
-														"$ref": "AAAAAAF7FWBEQ2FHji0="
-													},
-													"model": {
-														"$ref": "AAAAAAF7FWBEQmFGStE="
-													},
-													"font": "Arial;13;0",
-													"left": 472,
-													"top": 260,
-													"width": 14,
-													"height": 29
-												}
-											],
-											"font": "Arial;13;0",
-											"head": {
-												"$ref": "AAAAAAF7FUga3F58UaM="
-											},
-											"tail": {
-												"$ref": "AAAAAAF7FUga3F58UaM="
-											},
-											"points": "478:240;508:240;508:260;485:260",
-											"nameLabel": {
-												"$ref": "AAAAAAF7FWBEQ2FIaUE="
-											},
-											"stereotypeLabel": {
-												"$ref": "AAAAAAF7FWBEQ2FJP1Y="
-											},
-											"propertyLabel": {
-												"$ref": "AAAAAAF7FWBEQ2FKlzo="
-											},
-											"activation": {
-												"$ref": "AAAAAAF7FWBEQ2FL6yA="
-											}
-										},
-										{
-											"_type": "UMLSeqMessageView",
 											"_id": "AAAAAAF7FVWHP1+9QhY=",
 											"_parent": {
 												"$ref": "AAAAAAF7FUW3eF1s0ME="
@@ -1133,7 +1022,7 @@
 														"$ref": "AAAAAAF7FVWHP1+8jgA="
 													},
 													"font": "Arial;13;0",
-													"left": 524,
+													"left": 521,
 													"top": 264,
 													"width": 176.33154296875,
 													"height": 13,
@@ -1143,7 +1032,7 @@
 														"$ref": "AAAAAAF7FVWHP1+9QhY="
 													},
 													"edgePosition": 1,
-													"text": "6 : Call API and Send Request"
+													"text": "5 : Call API and Send Request"
 												},
 												{
 													"_type": "EdgeLabelView",
@@ -1156,7 +1045,7 @@
 													},
 													"visible": false,
 													"font": "Arial;13;0",
-													"left": 612,
+													"left": 609,
 													"top": 249,
 													"height": 13,
 													"alpha": 1.5707963267948966,
@@ -1177,7 +1066,7 @@
 													},
 													"visible": false,
 													"font": "Arial;13;0",
-													"left": 612,
+													"left": 609,
 													"top": 284,
 													"height": 13,
 													"alpha": -1.5707963267948966,
@@ -1210,7 +1099,7 @@
 											"tail": {
 												"$ref": "AAAAAAF7FUga3F58UaM="
 											},
-											"points": "485:280;740:280",
+											"points": "478:280;740:280",
 											"nameLabel": {
 												"$ref": "AAAAAAF7FVWHP1++++Q="
 											},
@@ -1480,7 +1369,7 @@
 														"$ref": "AAAAAAF7FVYRfl/1UbI="
 													},
 													"edgePosition": 1,
-													"text": "7 : Forward"
+													"text": "6 : Forward"
 												},
 												{
 													"_type": "EdgeLabelView",
@@ -1591,7 +1480,7 @@
 														"$ref": "AAAAAAF7FVcONWAuGiE="
 													},
 													"edgePosition": 1,
-													"text": "8 : Recive Request"
+													"text": "7 : Recive Request"
 												},
 												{
 													"_type": "EdgeLabelView",
@@ -1702,7 +1591,7 @@
 														"$ref": "AAAAAAF7FVhFpWBmq4g="
 													},
 													"edgePosition": 1,
-													"text": "9 : ExcuteQuery"
+													"text": "8 : ExcuteQuery"
 												},
 												{
 													"_type": "EdgeLabelView",
@@ -1813,7 +1702,7 @@
 														"$ref": "AAAAAAF7FVlTymDTB+M="
 													},
 													"edgePosition": 1,
-													"text": "10 : Return Result"
+													"text": "9 : Return Result"
 												},
 												{
 													"_type": "EdgeLabelView",
@@ -1925,7 +1814,7 @@
 														"$ref": "AAAAAAF7FVnZRGEVE6A="
 													},
 													"edgePosition": 1,
-													"text": "11 : Return Alert"
+													"text": "10 : Return Alert"
 												},
 												{
 													"_type": "EdgeLabelView",
@@ -2037,7 +1926,7 @@
 														"$ref": "AAAAAAF7FVieHWB9kCI="
 													},
 													"edgePosition": 1,
-													"text": "12 : Return Result"
+													"text": "11 : Return Result"
 												},
 												{
 													"_type": "EdgeLabelView",
@@ -2149,7 +2038,7 @@
 														"$ref": "AAAAAAF7FVmkCWD/0p8="
 													},
 													"edgePosition": 1,
-													"text": "13 : Return HTML and Result"
+													"text": "12 : Return HTML and Result"
 												},
 												{
 													"_type": "EdgeLabelView",
@@ -2261,7 +2150,7 @@
 														"$ref": "AAAAAAF7FVl3rWDpczk="
 													},
 													"edgePosition": 1,
-													"text": "14 : Return Result"
+													"text": "13 : Return Result"
 												},
 												{
 													"_type": "EdgeLabelView",
@@ -2353,7 +2242,7 @@
 									"_parent": {
 										"$ref": "AAAAAAF7FUW3d11rVJc="
 									},
-									"name": "Click Add New Vaccination Appointment",
+									"name": "Select one or more Appointment",
 									"source": {
 										"$ref": "AAAAAAF7FUeil15UF1E="
 									},
@@ -2367,7 +2256,7 @@
 									"_parent": {
 										"$ref": "AAAAAAF7FUW3d11rVJc="
 									},
-									"name": "Open Form Information",
+									"name": "Confirm Alert",
 									"source": {
 										"$ref": "AAAAAAF7FUga2151zts="
 									},
@@ -2382,7 +2271,7 @@
 									"_parent": {
 										"$ref": "AAAAAAF7FUW3d11rVJc="
 									},
-									"name": "Add new Information",
+									"name": "Comfirm",
 									"source": {
 										"$ref": "AAAAAAF7FUeil15UF1E="
 									},
@@ -2402,20 +2291,6 @@
 									},
 									"target": {
 										"$ref": "AAAAAAF7FVawx2AM0zY="
-									}
-								},
-								{
-									"_type": "UMLMessage",
-									"_id": "AAAAAAF7FWBEQmFGStE=",
-									"_parent": {
-										"$ref": "AAAAAAF7FUW3d11rVJc="
-									},
-									"name": "Validate new Data",
-									"source": {
-										"$ref": "AAAAAAF7FUga2151zts="
-									},
-									"target": {
-										"$ref": "AAAAAAF7FUga2151zts="
 									}
 								},
 								{
@@ -2673,7 +2548,8 @@
 							"_parent": {
 								"$ref": "AAAAAAF7FUW3d11qh6A="
 							},
-							"name": "Role5"
+							"name": "Role5",
+							"type": ""
 						},
 						{
 							"_type": "UMLAttribute",
@@ -2681,7 +2557,8 @@
 							"_parent": {
 								"$ref": "AAAAAAF7FUW3d11qh6A="
 							},
-							"name": "Role6"
+							"name": "Role6",
+							"type": ""
 						},
 						{
 							"_type": "UMLAttribute",
@@ -2689,7 +2566,8 @@
 							"_parent": {
 								"$ref": "AAAAAAF7FUW3d11qh6A="
 							},
-							"name": "Role7"
+							"name": "Role7",
+							"type": ""
 						},
 						{
 							"_type": "UMLAttribute",
@@ -2697,7 +2575,8 @@
 							"_parent": {
 								"$ref": "AAAAAAF7FUW3d11qh6A="
 							},
-							"name": "Role8"
+							"name": "Role8",
+							"type": ""
 						},
 						{
 							"_type": "UMLAttribute",
@@ -2705,7 +2584,8 @@
 							"_parent": {
 								"$ref": "AAAAAAF7FUW3d11qh6A="
 							},
-							"name": "Role9"
+							"name": "Role9",
+							"type": ""
 						}
 					]
 				},
@@ -2734,9 +2614,9 @@
 										"$ref": "AAAAAAF7FUagt11/K5Q="
 									},
 									"font": "Arial;13;0",
-									"left": 336.72998046875,
+									"left": 335.27001953125,
 									"top": 181,
-									"width": 110.82080078125,
+									"width": 98.46826171875,
 									"height": 13,
 									"text": "UseCaseDiagram1"
 								},
@@ -2749,7 +2629,7 @@
 									"font": "Arial;13;1",
 									"left": 317,
 									"top": 181,
-									"width": 14.72998046875,
+									"width": 13.27001953125,
 									"height": 13,
 									"text": "uc"
 								}
@@ -2809,7 +2689,7 @@
 											"top": 341,
 											"width": 41.17724609375,
 											"height": 13,
-											"text": "Actor1"
+											"text": "Doctor"
 										},
 										{
 											"_type": "LabelView",
@@ -2954,7 +2834,7 @@
 					"_parent": {
 						"$ref": "AAAAAAFF+qBWK6M3Z8Y="
 					},
-					"name": "Doctor"
+					"name": "Nurse"
 				}
 			]
 		}
