@@ -1,0 +1,24 @@
+@font-face {
+    font-family: 'regular';
+    src: url(../../../assets/font/GoogleSans-Regular.otf);
+}
+@font-face {
+    font-family: 'googleblack';
+    src: url(../../../assets/font/GoogleSans-Black.otf);
+}
+@font-face {
+    font-family: 'googlemedium';
+    src: url(../../../assets/font/GoogleSans-Medium.otf);
+}
+@font-face {
+    font-family: 'googlethin';
+    src: url(../../../assets/font/GoogleSans-Thin.otf);
+}
+body, html{
+    height: 100%;
+    width: 100%;
+    overflow: hidden;
+}
+body{
+    position: relative;
+}
